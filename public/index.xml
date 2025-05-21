@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EEEE</title>
+    <title>0xFFFFFF</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on EEEE</description>
+    <description>Recent content on 0xFFFFFF</description>
     <image>
-      <title>EEEE</title>
+      <title>0xFFFFFF</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <copyright>EEEE</copyright>
-    <lastBuildDate>Sat, 17 May 2025 11:30:03 +0000</lastBuildDate>
+    <copyright>0xFFFFFF</copyright>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sat, 17 May 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>Desc Text.</description>
+      <title>블로그 이사</title>
+      <link>http://localhost:1313/posts/250521/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/250521/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hogo&lt;/strong&gt;&lt;/em&gt;를 사용해 Cloudflare로 블로그를 이사했다.&lt;/p&gt;
+&lt;p&gt;초기 설정도 간편하고 Markdown을 사용해서 올릴 수 있어서 선택했다.&lt;/p&gt;
+&lt;p&gt;요즘은 웹사이트를 만들때 다양한 선택지가 있고 다들 간편하게 만들어져있어서 상당히 좋은 듯.&lt;/p&gt;
+&lt;h3 id=&#34;일상&#34;&gt;일상&lt;/h3&gt;
+&lt;p&gt;회사를 그만둔지는 1년 5개월이 지났고, 실제로 일을 쉰지는 3개월 정도가 지났다.&lt;/p&gt;
+&lt;p&gt;이렇게 살아도되나 싶을 정도로 넉넉하고 여유롭게 하루하루가 지나간다.&lt;/p&gt;
+&lt;p&gt;직장 생활을 시작하고 처음으로 긴 휴식을 취하고 있으니 불안감도 생긴다. 성인되고 13년만에 쉬는거니 더 그런거 같은 느낌.&lt;/p&gt;
+&lt;h3 id=&#34;개발&#34;&gt;개발&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/250521_cover.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;요즘은 쉬면서 인디게임 개발을 이어나가고 있다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

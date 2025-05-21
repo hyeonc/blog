@@ -1,6 +1,6 @@
-baseURL: "https://examplesite.com/"
-copyright: "© EEEE"
-title: EEEE
+baseURL: "https://makefile.sh/"
+copyright: "© 0xFFFFFF"
+title: "0xFFFFFF"
 pagination.pagerSize: 5
 theme: PaperMod
 
@@ -15,8 +15,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: EEEE
-  description: "EEEE"
+  title: "0xFFFFFF"
+  description: "0xFFFFFF"
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -53,14 +53,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "EEEE"
+    text: "0xFFFFFF"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: EEEE
+    title: "0xFFFFFF"
     subtitle: ""
     imageUrl: ""
     # imageWidth: 120
